@@ -1,0 +1,80 @@
+body{
+   
+    justify-content: center;
+      height: 100%;
+      }
+
+ body,div,h1,form{
+    padding:  0 10px 0 0;
+    margin: 10px 10px 10px 10px;
+    outline: none;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 16px;
+    color: #666;
+    }
+    input{
+        padding: 10px 10px 10px 10px;
+        margin:  10px 10px 10px 10px;
+        font-size: 1em;
+        border-color: royalblue;
+        
+    }
+    
+    h1 {
+        padding: 10px 0;
+        font-size: 32px;
+        font-weight: 300;
+        text-align: center;
+        color: royalblue;
+        
+        }
+    hr {
+        color: #a9a9a9;
+        opacity: 0.3;
+        }`
+        .main-block {
+            max-width: 340px; 
+            min-height: 460px; 
+            padding: 10px 0;
+            margin: auto;
+            border-radius: 5px; 
+            border: solid 1px #ccc;
+            box-shadow: 1px 2px 5px rgba(0,0,0,.31); 
+            background: #ebebeb; 
+            
+            }
+            form {
+                margin: 0 40px;
+               
+                }
+                label.radio {
+                    position: relative;
+                    display: inline-block;
+                    padding-top: 4px;
+                    margin-right: 20px;
+                    text-indent: 30px;
+                    overflow: visible;
+                    cursor: pointer;
+                    }
+                    .button-block {
+                        margin-top: 10px;
+                        text-align: center;
+                        }
+                        button {
+                        width: 100%;
+                        padding: 10px 0;
+                        margin: 10px auto;
+                        border-radius: 5px; 
+                        border: none;
+                        background: #1c87c9; 
+                        font-size: 20px;
+                        font-weight: 600;
+                        color: #fff;
+                        box-shadow: 0 0 20px rgb(20, 41, 104);
+                        }
+                        button:hover {
+                        background: #26a9e0;
+                        }
+                   
+                   
+            
